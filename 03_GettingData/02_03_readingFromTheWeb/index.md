@@ -76,7 +76,7 @@ xpathSApply(html, "//title", xmlValue)
 ```
 
 ```r
-xpathSApply(html, "//td[@id='col-citedby']", xmlValue)
+xpathSApply(html, "//td[@class='gsc_a_c']", xmlValue)
 ```
 
 ```
